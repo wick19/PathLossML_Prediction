@@ -1,5 +1,5 @@
 # Path_loss_ML_Prediction
-Machine Learning-Based Path loss Models For the UAV Air-to-Air (A2A) Prediction:
+**Machine Learning-Based Path loss Models For the UAV Air-to-Air (A2A) Prediction:**
 
 Synopsis:
 
